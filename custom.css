@@ -32,6 +32,10 @@ html, body {
       h2 {
      font-size:40px
       }
+      h3{
+        color:blue;
+        font-size:40px
+      }
     }
 
 
@@ -50,3 +54,4 @@ html, body {
       text-align: center;
       vertical-align: middle;
 }
+
